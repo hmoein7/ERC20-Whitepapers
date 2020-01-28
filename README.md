@@ -264,7 +264,7 @@ Our Team:
 The CSM Coin team is comprised of Blockchain early adopters and enthusiasts that understand the power and transformative potential of this technology.  
 
 
-Hossein Moein taghavi
+Hossein Moein Taghavi
 Front-end Developer / Business Manager 
 Vision Leader
 
