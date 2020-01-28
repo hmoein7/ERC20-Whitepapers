@@ -22,7 +22,7 @@ Stabilizing Economic and Learning Opportunities in a Competitive Academic Enviro
 
 
 Whitepaper
-Version Draft V.0.2 - Feb 2018
+Version Draft V.0.2 - Feb 2019
 
 
 
