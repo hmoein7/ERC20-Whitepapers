@@ -25,7 +25,7 @@ Whitepaper
 Version Draft V.0.2 - Feb 2019
 
 
-
+https://medium.com/@hmoein/using-proof-of-stake-pos-consensus-algorithm-on-the-erc20-platform-for-a-native-school-coin-aadc60c709cf
 
 
 
